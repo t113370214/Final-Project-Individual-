@@ -1,8 +1,6 @@
-# Final-Project-Individual-
-113370214
 ## Student Information
-Name:
-Student ID:
+Name:吳宗祐
+Student ID:113370214
 ## Project Repository
 https://github.com/.....
 ## Presentation Video
